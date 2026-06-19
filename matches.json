@@ -983,8 +983,11 @@
       "flag": "https://imgs.ysscores.com/teams/128/9651763083639.png"
     },
     "extra": false,
-    "channels": []
-  ]
+    "channels": [
+      {
+        "name": "الكويت الرياضية",
+        "url": "go:KuwaitSP" }
+    ]
   },
   {
     "league": "تصفيات آسيا المؤهلة لكأس العالم 2026 x",
@@ -1026,8 +1029,11 @@
       "flag": "https://imgs.ysscores.com/teams/128/9311763084802.png"
     },
     "extra": false,
-    "channels": []
-  ]
+    "channels": [
+      {
+        "name": "الكويت الرياضية",
+        "url": "go:KuwaitSP" }
+    ]
   },
   {
     "league": "مباراة ودية x",
@@ -1042,8 +1048,11 @@
       "flag": "https://imgs.ysscores.com/teams/128/6211734428691.png"
     },
     "extra": false,
-    "channels": []
-  ]
+    "channels": [
+      {
+        "name": "الكويت الرياضية",
+        "url": "go:KuwaitSP" }
+    ]
   },
   {
     "league": "مباراة ودية x",
