@@ -71,49 +71,67 @@
   },
   {
     "league": "كأس العالم x",
-    "title": "تشيلي × أوروغواي",
-    "time": "2026-03-26T02:30:00",
-    "team1": {
-      "name": "تشيلي",
-      "flag": "https://imgs.ysscores.com/teams/128/9001694177584.png"
-    },
+    "title": " × أوروغواي",
+    "time": "2026-06-22T01:00:00",
     "team2": {
+      "name": "الرأس الأخضر",
+      "flag": "https://imgs.ysscores.com/teams/128/2061693918552.png"
+    },
+    "team1": {
       "name": "أوروغواي",
       "flag": "https://imgs.ysscores.com/teams/128/5241694177539.png"
     },
     "extra": false,
     "channels": [
-      { "name": "SUPER TV 1", "url": "go:supertv1" },
-      { "name": "SUPER TV 2", "url": "go:supertv2" },
-      { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "FHD", "url": "go:max1FHD" },
-      { "name": "HD", "url": "go:max1HD" }
+      { "name": "POST 1", "url": "go:POST1" },
+    { "name": "الفجر", "url": "go:Alfajr1" },
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "ALWAN 2", "url": "go:ALWAN2" },
+    { "name": "MULTI", "url": "go:max14K" },
+    { "name": "MULTI", "url": "go:max34K" },
+    { "name": "FHD", "url": "go:max1FHD" },
+    { "name": "FHD", "url": "go:max3FHD" },
+    { "name": "HD", "url": "go:max1HD" },
+    { "name": "HD", "url": "go:max3HD" },
+    { "name": "SD", "url": "go:max1SD" },
+    { "name": "SD", "url": "go:max3SD" },
+    { "name": "LOW", "url": "go:max1LOW" },
+    { "name": "LOW", "url": "go:max3LOW" }
     ]
   },
   {
     "league": "كأس العالم x",
     "title": "الأرجنتين × ايسلندا",
-    "time": "2026-06-10T04:00:00",
+    "time": "2026-06-22T20:00:00",
     "team1": {
       "name": "الأرجنتين",
       "flag": "https://imgs.ysscores.com/teams/128/5861694177479.png"
     },
     "team2": {
-      "name": "ايسلندا",
-      "flag": "https://imgs.ysscores.com/teams/128/4901763080803.png"
+      "name": "النمسا",
+      "flag": "https://imgs.ysscores.com/teams/128/2941763068051.png"
     },
     "extra": false,
     "channels": [
       { "name": "SUPER TV 1", "url": "go:supertv1" },
-      { "name": "SUPER TV 2", "url": "go:supertv2" },
+      { "name": "POST 1", "url": "go:POST1" },
+      { "name": "الفجر", "url": "go:Alfajr1" },
       { "name": "ALWAN 1", "url": "go:ALWAN1" },
+      { "name": "ALWAN 2", "url": "go:ALWAN2" },
       { "name": "MULTI", "url": "go:max14K" },
+      { "name": "MULTI", "url": "go:max34K" },
       { "name": "FHD", "url": "go:max1FHD" },
-      { "name": "HD", "url": "go:max1HD" }
+      { "name": "FHD", "url": "go:max3FHD" },
+      { "name": "HD", "url": "go:max1HD" },
+      { "name": "HD", "url": "go:max3HD" },
+      { "name": "SD", "url": "go:max1SD" },
+      { "name": "SD", "url": "go:max3SD" },
+      { "name": "LOW", "url": "go:max1LOW" },
+      { "name": "LOW", "url": "go:max3LOW" }
     ]
   },
   {
-    "league": "كأس العالم ",
+    "league": "كأس العالم x",
     "title": "البرازيل × ",
     "time": "2026-06-20T03:30:00",
     "team1": {
@@ -144,22 +162,33 @@
   ]
   },
   {
-    "league": "كأس العالم x",
+    "league": "كأس العالم ",
     "title": " × تونس",
-    "time": "2026-06-01T00:30:00",
-    "team1": {
-      "name": "السويد",
-      "flag": "https://imgs.ysscores.com/teams/128/2981763087554.png"
-    },
+    "time": "2026-06-21T07:00:00",
     "team2": {
+      "name": "اليابان",
+      "flag": "https://imgs.ysscores.com/teams/128/6361763081321.png"
+    },
+    "team1": {
       "name": "تونس",
       "flag": "https://imgs.ysscores.com/teams/128/9841693833234.png"
     },
     "extra": false,
     "channels": [
-      { "name": "SUPER TV 1", "url": "go:supertv1" },
-      { "name": "SUPER TV 2", "url": "go:supertv2" },
-      { "name": "ALWAN 1", "url": "go:ALWAN1" }
+    { "name": "POST 2", "url": "go:POST2" },
+    { "name": "الفجر", "url": "go:Alfajr1" },
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "ALWAN 2", "url": "go:ALWAN2" },
+    { "name": "MULTI", "url": "go:max24K" },
+    { "name": "MULTI", "url": "go:max44K" },
+    { "name": "FHD", "url": "go:max2FHD" },
+    { "name": "FHD", "url": "go:max4FHD" },
+    { "name": "HD", "url": "go:max2HD" },
+    { "name": "HD", "url": "go:max4HD" },
+    { "name": "SD", "url": "go:max2SD" },
+    { "name": "SD", "url": "go:max4SD" },
+    { "name": "LOW", "url": "go:max2LOW" },
+    { "name": "LOW", "url": "go:max4LOW" }
     ]
   },
   {
@@ -181,7 +210,7 @@
     ]
   },
   {
-    "league": "كأس العالم ",
+    "league": "كأس العالم x",
     "title": "المغرب × ",
     "time": "2026-06-20T01:00:00",
     "team1": {
@@ -314,10 +343,10 @@
 {
   "league": "كأس العالم x",
   "title": "مصر × ",
-  "time": "2026-06-15T22:00:00",
+  "time": "2026-06-22T04:00:00",
   "team1": {
-    "name": "بلجيكا",
-    "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
+    "name": "نيوزيلاندا",
+    "flag": "https://imgs.ysscores.com/teams/128/2291763084006.png"
   },
   "team2": {
     "name": "مصر",
@@ -495,7 +524,7 @@
   ]
 },
 {
-  "league": "كأس العالم ",
+  "league": "كأس العالم x",
   "title": "تركيا × باراغواي",
   "time": "2026-06-20T06:00:00",
   "team1": {
@@ -524,7 +553,7 @@
   ]
 },
 {
-  "league": "كأس العالم ",
+  "league": "كأس العالم x",
   "title": "هولندا × ",
   "time": "2026-06-20T20:00:00",
   "team1": {
@@ -552,8 +581,37 @@
     { "name": "LOW", "url": "go:max3LOW" }
   ]
 },
-{
+  {
   "league": "كأس العالم ",
+  "title": " × ",
+  "time": "2026-06-21T03:00:00",
+  "team1": {
+    "name": "الاكوادور",
+    "flag": "https://imgs.ysscores.com/teams/128/1021763071912.png"
+  },
+  "team2": {
+    "name": "كوراساو",
+    "flag": "https://imgs.ysscores.com/teams/128/501763071421.png"
+  },
+  "extra": false,
+  "channels": [
+    { "name": "POST 1", "url": "go:POST1" },
+    { "name": "الفجر", "url": "go:Alfajr1" },
+    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "MULTI", "url": "go:max14K" },
+    { "name": "MULTI", "url": "go:max34K" },
+    { "name": "FHD", "url": "go:max1FHD" },
+    { "name": "FHD", "url": "go:max3FHD" },
+    { "name": "HD", "url": "go:max1HD" },
+    { "name": "HD", "url": "go:max3HD" },
+    { "name": "SD", "url": "go:max1SD" },
+    { "name": "SD", "url": "go:max3SD" },
+    { "name": "LOW", "url": "go:max1LOW" },
+    { "name": "LOW", "url": "go:max3LOW" }
+  ]
+},
+{
+  "league": "كأس العالم x",
   "title": "المانيا × ",
   "time": "2026-06-20T23:00:00",
   "team1": {
@@ -606,15 +664,15 @@
 },
   {
   "league": "كأس العالم x",
-  "title": "اسبانيا × الرأس الأخضر",
-  "time": "2026-06-15T19:00:00",
+  "title": "اسبانيا × ",
+  "time": "2026-06-21T19:00:00",
   "team1": {
     "name": "اسبانيا",
     "flag": "https://imgs.ysscores.com/teams/128/6231763087210.png"
   },
   "team2": {
-    "name": "الرأس الأخضر",
-    "flag": "https://imgs.ysscores.com/teams/128/7031763070559.png"
+    "name": "السعودية",
+    "flag": "https://imgs.ysscores.com/teams/128/7231728507982.png"
   },
   "extra": false,
   "channels": [
@@ -843,16 +901,16 @@
     ]
   },
   {
-    "league": "كأس العالم x",
+    "league": "كأس العالم ",
     "title": "ايران × نيوزيلاندا",
-    "time": "2026-06-16T04:00:00",
-    "team1": {
+    "time": "2026-06-21T22:00:00",
+    "team2": {
       "name": "ايران",
       "flag": "https://imgs.ysscores.com/teams/128/2071763080949.png"
     },
-    "team2": {
-      "name": "نيوزيلاندا",
-      "flag": "https://imgs.ysscores.com/teams/128/2291763084006.png"
+    "team1": {
+      "name": "بلجيكا",
+      "flag": "https://imgs.ysscores.com/teams/128/6271763069075.png"
     },
     "extra": false,
     "channels": [
