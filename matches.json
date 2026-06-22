@@ -1004,6 +1004,7 @@
       "name": "فرنسا",
       "flag": "https://imgs.ysscores.com/teams/128/2961763078000.png"
     },
+    "status": "stopped"
     "extra": false,
     "channels": [
       { "name": "SUPER TV 1", "url": "go:supertv2" },
