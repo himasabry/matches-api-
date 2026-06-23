@@ -888,11 +888,6 @@
     },
     "extra": false,
     "channels": [
-      { "name": "SUPER TV 1", "url": "go:supertv2" },
-      { "name": "POST 2", "url": "go:POST2" },
-      { "name": "الفجر", "url": "go:Alfajr1" },
-      { "name": "ALWAN 1", "url": "go:ALWAN1" },
-      { "name": "ALWAN 2", "url": "go:ALWAN2" },
       { "name": "MULTI", "url": "go:max24K" },
       { "name": "MULTI", "url": "go:max44K" },
       { "name": "FHD", "url": "go:max2FHD" },
