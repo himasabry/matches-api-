@@ -436,21 +436,14 @@
   },
   "extra": false,
   "channels": [
-    { "name": "SUPER TV 1", "url": "go:supertv1" },
-    { "name": "POST 1", "url": "go:POST1" },
-    { "name": "الفجر", "url": "go:Alfajr1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
+    { "name": "POST 2", "url": "go:POST2" },
+    { "name": "الفجر", "url": "go:Alfajr3" },
     { "name": "ALWAN 2", "url": "go:ALWAN2" },
     { "name": "MULTI", "url": "go:max24K" },
-    { "name": "MULTI", "url": "go:max44K" },
     { "name": "FHD", "url": "go:max2FHD" },
-    { "name": "FHD", "url": "go:max4FHD" },
     { "name": "HD", "url": "go:max2HD" },
-    { "name": "HD", "url": "go:max4HD" },
     { "name": "SD", "url": "go:max2SD" },
-    { "name": "SD", "url": "go:max4SD" },
-    { "name": "LOW", "url": "go:max2LOW" },
-    { "name": "LOW", "url": "go:max4LOW" }
+    { "name": "LOW", "url": "go:max2LOW" }
   ]
 },
 {
@@ -1053,20 +1046,14 @@
     },
     "extra": false,
     "channels": [
-      { "name": "SUPER TV 1", "url": "go:supertv1" },
-      { "name": "SUPER TV 4K HDR", "url": "go:supertv3" },
       { "name": "ALWAN 1", "url": "go:ALWAN1" },
       { "name": "Alkass 5", "url": "go:alkass5" },
+      { "name": "الفجر", "url": "go:Alfajr1" },
       { "name": "MULTI", "url": "go:max14K" },
-      { "name": "MULTI", "url": "go:max34K" },
       { "name": "FHD", "url": "go:max1FHD" },
-      { "name": "FHD", "url": "go:max3FHD" },
       { "name": "HD", "url": "go:max1HD" },
-      { "name": "HD", "url": "go:max3HD" },
       { "name": "SD", "url": "go:max1SD" },
-      { "name": "SD", "url": "go:max3SD" },
-      { "name": "LOW", "url": "go:max1LOW" },
-      { "name": "LOW", "url": "go:max3LOW" }
+      { "name": "LOW", "url": "go:max1LOW" }
       ]
   },
   {
