@@ -198,7 +198,7 @@
     { "name": "FHD", "url": "go:max1FHD" },
     { "name": "HD", "url": "go:max1HD" },
     { "name": "SD", "url": "go:max1SD" },
-    { "name": "LOW", "url": "go:max1LOW" },
+    { "name": "LOW", "url": "go:max1LOW" }
     ]
   },
   {
