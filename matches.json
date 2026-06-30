@@ -209,6 +209,7 @@
     },
     "extra": false,
     "channels": [
+    { "name": "SUPER TV 1", "url": "go:supertv1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
       { "name": "MULTI", "url": "go:max14K" },
