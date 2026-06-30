@@ -550,7 +550,6 @@
   },
   "extra": false,
   "channels": [
-    { "name": "POST 1", "url": "go:POST1" },
     { "name": "الفجر", "url": "go:Alfajr1" },
     { "name": "ALWAN 1", "url": "go:ALWAN1" },
       { "name": "MULTI", "url": "go:max14K" },
