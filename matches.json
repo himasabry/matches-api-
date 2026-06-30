@@ -551,7 +551,6 @@
   "extra": false,
   "channels": [
     { "name": "الفجر", "url": "go:Alfajr1" },
-    { "name": "ALWAN 1", "url": "go:ALWAN1" },
       { "name": "MULTI", "url": "go:max14K" },
       { "name": "MULTI", "url": "go:max34K" },
       { "name": "FHD", "url": "go:max1FHD" },
